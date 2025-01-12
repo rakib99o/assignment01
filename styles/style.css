@@ -1,0 +1,263 @@
+
+
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+/* navv  */
+
+nav{
+     display: flex;
+     justify-content: space-between ;
+  border: 20px;
+  padding: 10px;
+  margin: 5px;
+}
+
+
+.banner{
+     display: flex;
+     justify-content: center;
+
+}
+.btitle{
+     border-radius: 5px;
+     font-style: normal;
+     border-color: greenyellow;
+     background: white;
+}
+
+
+
+/* bannar style */
+.banner{
+     display: flex;
+     justify-content: space-between;
+     background-color: green;
+     border-radius: 10px;
+}
+
+.title{
+     padding: 100px 400px 120px 40px;
+}
+.button1{
+     background-color: grey;
+     color: black;
+     border: 2px solid #04AA6D;
+     padding: 10px 12px 10px 12px;
+
+}
+
+/* piller style */
+
+
+
+.ptitle{
+     font-size: bold;
+     font-weight: 40px;
+     padding-top: 10px;
+     padding-left: 30px;
+     /* margin-top: 20px;
+     margin-bottom: none; */
+}
+
+.card{
+     display: flex;
+    border-radius: 10px;
+   padding: 20px;
+   justify-content: space-around;
+}
+.card01{
+     border-radius: 10px;
+     margin: 8px;
+     padding: 10px;
+     background-color: bisque;
+     
+}
+
+/* vission style */
+
+.vtitle{
+     font-size: bold;
+     font-weight: 40px;
+     padding-top: 50px;
+     padding-left: 30px;
+}
+.vcard{
+     display: flex;
+    border-radius: 10px;
+   padding: 20px;
+   justify-content: space-around;
+    /* margin-bottom: 32px; */ */
+}
+
+.vcard01{
+     border-radius: 10px;
+     margin: 12px;
+     padding: 10px;
+     background-color: bisque;
+     
+}
+.vcard02{
+     border-radius: 10px;
+     margin: 12px;
+     padding: 10px;
+     background-color: goldenrod;
+     
+}
+.vcard03{
+     border-radius: 10px;
+     margin: 12px;
+     padding: 10px;
+     background-color: rebeccapurple;
+     
+}
+
+.vbutton{
+     background-color:violet ;
+     color: black;
+     border: 4px solid #04AA6D;
+     border-radius: 10px;
+     padding: 10px 12px 10px 12px;
+}
+
+
+/* news */
+
+.news{
+     padding: 20px;
+     border-radius: 10;
+     justify-content: space-around;
+}
+
+.neess01{
+     display: flex;
+     
+     background-color: aliceblue;
+     margin-bottom: 20px;
+     border-radius: 7px;
+     /* padding-left: 140px;
+     padding-right: 140px; */
+}
+
+.im{
+     border-radius: 50px;
+     padding: 30px ;
+}
+
+.im02{
+     border-radius: 50px;
+     padding: 30px ; 
+   
+}
+
+/* Donate Today */
+.donate{
+     padding: 20px;
+     border-radius: 10px;
+     margin-top: 60px;
+     background: whitesmoke;
+
+}
+
+.dtitle{
+     
+     text-align: center;
+     font-size: 40px;
+     font-weight: 500px;
+     color: #0E0E0E;
+}
+
+.dstitle{
+     margin-top: 24px;
+     text-align: center;
+     font-weight: 500px;
+     color: #0E0E0E;
+     
+    
+}
+
+.dbutton{
+     display: flex;
+     justify-content: center;
+    
+}
+.db01{
+     margin: 24px;
+     margin-bottom: 32px;
+padding: 30px;
+border-radius: 10px;
+background: #04AA6D;
+}
+
+.db00{
+     margin: 24px;
+     margin-bottom: 32px;
+padding: 30px;
+border-radius: 10px;
+background:white;
+}
+
+.input{
+     display: flex;
+     justify-content: center;
+     margin-left: 60px;
+     margin-bottom: 60px;
+    
+    
+}
+.db02{
+     margin: 40px;
+padding: 10px;
+border-radius: 10px;
+background: #04AA6D;
+display: flex;
+justify-self: center;
+}
+
+
+/* subs */
+
+.latter{
+     margin: 80px;
+background-color: aquamarine;
+padding: 70px;
+border-radius: 30px;
+}
+
+.subtitle{
+     font-size: 40;
+     font-weight: bold;
+     margin-top: 30px;
+}
+.subs{
+     margin-top: 40px;
+     font-size: 18px;
+     text-align: center;
+}
+.sin{
+     display: flex;
+     justify-content: space-evenly;
+     margin: 10px;
+     background: white;
+     padding: 0px;
+     border: 0px;
+}
+
+.sbut{
+     color: black;
+     background:green;
+     justify-self: end;
+}
+
+.last{
+     text-align: center;
+
+}
+
+.img{
+     margin: 5px;
+}
