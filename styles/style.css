@@ -143,6 +143,16 @@ nav{
      padding-right: 140px; */
 }
 
+.neess02{
+     display: flex;
+     flex-direction: row-reverse;
+     background-color: aliceblue;
+     margin-bottom: 20px;
+     border-radius: 7px;
+     /* padding-left: 140px;
+     padding-right: 140px; */
+}
+
 .im{
      border-radius: 50px;
      padding: 30px ;
@@ -240,11 +250,12 @@ border-radius: 30px;
 }
 .sin{
      display: flex;
-     justify-content: space-evenly;
+     justify-content: space-between;
      margin: 10px;
      background: white;
-     padding: 0px;
+     padding: 0px 0px 0px 20px;
      border: 0px;
+     
 }
 
 .sbut{
@@ -255,6 +266,10 @@ border-radius: 30px;
 
 .last{
      text-align: center;
+
+}
+.in{
+     border: none;
 
 }
 
